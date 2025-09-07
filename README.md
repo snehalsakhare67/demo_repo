@@ -1,2 +1,2 @@
 # demo_repo
-this is my demo repositary
+this is my demo repositary.
